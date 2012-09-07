@@ -1,0 +1,43 @@
+body {
+	background-color: #084a0b;
+	text-align: center;
+	font-family: Sans-Serif;
+	font-size: 1.0em;
+}
+
+a {
+	color: #000000;
+}
+
+table {
+	width: 100%;
+}
+
+td {
+	text-align: center;
+	font-size: 0.8em;
+}
+
+#container {
+	width: 800px;
+	margin: auto;
+	margin-top: 20px;
+	padding: 20px;
+	text-align: left;
+	background-color: #ffffff;
+}
+
+#store {
+	padding-top: 20px;
+	text-align: center;
+}
+
+#video {
+	text-align: center;
+	height: 300px;
+}
+
+#powered {
+	font-size: 0.8em;
+	color: #ffffff;
+}
